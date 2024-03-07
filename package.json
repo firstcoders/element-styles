@@ -16,7 +16,8 @@
     "./grid.js": "./src/grid.js",
     "./spacing.js": "./src/spacing.js",
     "./row.js": "./src/row.js",
-    "./flex.js": "./src/flex.js"
+    "./flex.js": "./src/flex.js",
+    "./animate.js": "./src/animate.js"
   },
   "scripts": {
     "lint": "eslint --ext .js,.html . --ignore-path .gitignore && prettier \"**/*.js\" --check --ignore-path .gitignore",
